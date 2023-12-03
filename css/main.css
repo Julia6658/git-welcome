@@ -45,3 +45,9 @@ h1 {
   max-width: 800px;
   margin: 0 auto 28px auto;
 }
+
+header {
+  padding: 50px 100px;
+  text-align: center;
+  background-color: #ccc;
+}
