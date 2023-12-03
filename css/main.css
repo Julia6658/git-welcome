@@ -59,3 +59,10 @@ header {
   text-align: center;
 
 }
+
+footer {
+  background-color:red;
+  padding: 50px 100px;
+  color: #fff;
+  text-align: center;
+}
