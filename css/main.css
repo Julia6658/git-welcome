@@ -46,8 +46,16 @@ h1 {
   margin: 0 auto 28px auto;
 }
 
+
 header {
   padding: 50px 100px;
   text-align: center;
   background-color: #ccc;
+}
+.main {
+  background-color: aquamarine;
+  padding: 50px 100px;
+  color: #fff;
+  text-align: center;
+
 }
